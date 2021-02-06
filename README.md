@@ -22,7 +22,7 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook&theme=calm&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6)
 
 ```rust
 struct AboutMe;
