@@ -16,9 +16,11 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
+Awesome githuber
+- https://github.com/Youngermaster/Youngermaster
 -->
 
-[My coding time](https://wakatime.com/@Younger)
+[Coding Time](https://wakatime.com/@Younger)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) 
 
