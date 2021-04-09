@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋
 
 <!--
 **younger-1/younger-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Awesome githuber
 
 
 <div align="center">
-    <img height="150" src="https://raw.githubusercontent.com/younger-1/younger-1/master/1.gif" alt="gif with funny random cat say thank you." />
+    <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
 </div>
 
 <p align="center">
@@ -57,9 +57,9 @@ Awesome githuber
 
 
 
-### [Coding Time](https://wakatime.com/@Younger): the projects I'm working on.
+### [Coding Time](https://wakatime.com/@Younger): the projects I'm working on
 
-![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) 
+![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6)
 
