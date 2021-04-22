@@ -44,14 +44,14 @@ Awesome githuber
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/rust-%23ff9900.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+    <img src="https://img.shields.io/badge/rust-%23DEA584.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/neovim-%23DEA584.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
     <img src="https://img.shields.io/badge/arch-%231793d1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"/>
     <img src="https://img.shields.io/badge/win10-%23008080.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/wt-%234d4d4d.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white"/>
