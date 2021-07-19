@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **younger-1/younger-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,9 +22,10 @@ Awesome githuber
 - https://github.com/glepnir/glepnir
 - https://github.com/kkiyama117/kkiyama117
 - https://github.com/changkun/changkun
+- https://github.com/yangwenmai/yangwenmai
 -->
 
-
+### 👋 Hi there
 
 <div align="center">
     <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
@@ -61,15 +60,28 @@ Awesome githuber
 
 
 
-<hr/>
+---
 
 
 
-### [Coding Time](https://wakatime.com/@Younger): the projects I'm working on
-
+### 🌠[Coding Time](https://wakatime.com/@Younger)
+> the projects I'm working on
+<!-- 
 ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6)
+-->
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
+
+
+---
+
+### 🏆 Github Profile Trophy
+<img src="https://github-profile-trophy.vercel.app/?username=younger-1&column=8"/>
+
 
 <!-- 
 [![](https://raw.githubusercontent.com/younger-1/younger-1/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -78,9 +90,9 @@ Awesome githuber
 [![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  -->
 
-<hr/>
+---
 
-
+### 😐 But I'm still wondering...
 
 ```rust
 struct AboutMe;
