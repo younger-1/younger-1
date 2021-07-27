@@ -41,9 +41,8 @@ Awesome githuber
     •
     <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
     •
-    <b><a href="7650421@qq.com">Email</a></b>
-    •
     <b><a href="https://younger-1.github.io/fastpages/">Blogs</a></b>
+    <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
     <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
 </p>
 
