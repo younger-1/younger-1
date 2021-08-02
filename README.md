@@ -29,6 +29,7 @@ Awesome githuber
 - https://github.com/rhysd/rhysd
 - https://github.com/abzcoding/abzcoding
 - https://github.com/SigureMo/SigureMo
+- https://github.com/vbalien/vbalien [github action]
 -->
 
 <!-- ### 👋 Hi there -->
