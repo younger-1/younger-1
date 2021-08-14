@@ -30,6 +30,7 @@ Awesome githuber
 - https://github.com/abzcoding/abzcoding
 - https://github.com/SigureMo/SigureMo
 - https://github.com/vbalien/vbalien [github action]
+- https://github.com/funkyremi/funkyremi
 -->
 
 <!-- ### 👋 Hi there -->
