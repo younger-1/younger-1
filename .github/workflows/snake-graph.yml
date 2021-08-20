@@ -12,7 +12,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
     
 # The sequence of runs in this workflow:
 jobs:
@@ -38,12 +38,12 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
-      # push the content of <build_dir> to a branch
+      # Or push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
           build_dir: dist
