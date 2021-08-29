@@ -32,6 +32,7 @@ Awesome githuber
 - https://github.com/vbalien/vbalien [github action]
 - https://github.com/funkyremi/funkyremi
 - https://github.com/watzon/watzon
+- https://github.com/michaelb/michaelb
 -->
 
 <!-- ### 👋 Hi there -->
