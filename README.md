@@ -96,11 +96,8 @@ Awesome githuber
 </div>
 
 
----
 
-
-
-### 🌠[Coding Time](https://wakatime.com/@Younger)
+## 🌠[Coding Time](https://wakatime.com/@Younger)
 > the projects I'm working on
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) -->
@@ -111,10 +108,7 @@ Awesome githuber
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
-
----
-
-### 🏆 Github Profile Trophy
+## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=younger-1&column=8"/>
 
 
@@ -125,9 +119,7 @@ Awesome githuber
 [![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  -->
 
----
-
-### 😐 But I'm still wondering...
+## 😐 But I'm still wondering...
 
 ```rust
 struct AboutMe;
