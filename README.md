@@ -37,19 +37,23 @@ Awesome githuber
 - https://github.com/spywhere/spywhere
 -->
 
-<!-- ### 👋 Hi there -->
+<h1 align="center">
+  Hey, I'm Younger!
+</h1>
 
-<h1 align="center">Hey, I'm Younger!</h1>
-
-<!-- <p align="center">
+<!-- 
+<p align="center">
   <a href="https://reddit.com/user/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://t.me/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://discord.com/users/387036585033465856" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p> -->
+</p> 
+-->
 
-<!-- <div align="center">
+<!-- 
+<div align="center">
     <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
-</div> -->
+</div>
+-->
 
 <p align="center">
     <b><a href="https://github.com/rust-lang/rust">Rustacean</a></b>
@@ -84,16 +88,23 @@ Awesome githuber
 
 
 
+
+<div align="center">
+  <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
+</div>
+
+
 ---
 
 
 
 ### 🌠[Coding Time](https://wakatime.com/@Younger)
 > the projects I'm working on
-<!-- 
-![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6)
--->
+
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
@@ -135,3 +146,5 @@ impl OpenSource for AboutMe {}
 ```
 
 ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
+
+
